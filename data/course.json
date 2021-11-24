@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b5546a46-3cc2-65bf-429d-14ba6dd8341a",
+      "2c7906d6-eba2-c0e6-6065-d904f197afee"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Management Communication for Undergraduates",
+  "course_description": "The goal of this course is to help students learn to communicate strategically within a professional setting. Students are asked to analyze their intended audience, the purpose of their communication, and the context in which they are operating before developing the message. The course focuses specifically on improving students\u2019 ability to write, speak, work in a team, and communicate across cultures in their roles as future managers.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.279",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
